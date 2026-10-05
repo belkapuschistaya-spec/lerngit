@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file2 v003
+=======
+this is file2 v001
+>>>>>>> parent of c9d97a0 (file2 v2)
